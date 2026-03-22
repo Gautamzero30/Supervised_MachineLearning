@@ -1,0 +1,5 @@
+<!-- <ul>
+        <% for (let name of followers){ %>
+    <li><%= name %> </li> 
+    <%} %>
+    </ul> -->
