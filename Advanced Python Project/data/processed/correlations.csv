@@ -1,0 +1,13 @@
+,readmitted
+readmitted,1.0
+number_inpatient,0.1651473777543391
+number_emergency,0.060746500142537935
+discharge_disposition_id,0.0505602685857516
+number_diagnoses,0.04952421190568182
+time_in_hospital,0.04419941845744827
+num_medications,0.038431822165995444
+num_lab_procedures,0.020363602567542712
+number_outpatient,0.0188934701554265
+admission_source_id,0.0058195960944266425
+admission_type_id,-0.01165137288870773
+num_procedures,-0.012226934251745166

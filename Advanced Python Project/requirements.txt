@@ -1,0 +1,15 @@
+kaggle
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+statsmodels
+scikit-learn
+sqlalchemy
+openpyxl
+reportlab
+schedule
+jupyter
+ipykernel
